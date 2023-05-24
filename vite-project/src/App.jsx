@@ -25,7 +25,7 @@ function App() {
           <source src={Herta} type="audio/mp3" />
         </audio>
       </div>
-      <p className="read-the-docs"></p>
+      
     </>
   );
 }
